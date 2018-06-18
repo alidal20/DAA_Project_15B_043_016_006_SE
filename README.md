@@ -1,6 +1,7 @@
 # DAA_Project_15B_043_016_006_SE
 Project Name: Edit Distance Dynamic Programming
-Group Members:
+
+# Group Members
 Ali Dal (15B-043-SE)
 Arham Khan (15B-016-SE)
 Eesha Shahid (15B-006-SE)
