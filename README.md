@@ -2,7 +2,7 @@
 Project Name: Edit Distance Dynamic Programming
 
 # Group Members
-Ali Dal (15B-043-SE)
+Ali Dal (15B-043-SE) \n
 Arham Khan (15B-016-SE)
 Eesha Shahid (15B-006-SE)
 
