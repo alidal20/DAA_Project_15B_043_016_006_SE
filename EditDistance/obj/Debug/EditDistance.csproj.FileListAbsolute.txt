@@ -1,0 +1,6 @@
+c:\users\ali\documents\visual studio 2013\Projects\EditDistance\EditDistance\bin\Debug\EditDistance.exe.config
+c:\users\ali\documents\visual studio 2013\Projects\EditDistance\EditDistance\bin\Debug\EditDistance.exe
+c:\users\ali\documents\visual studio 2013\Projects\EditDistance\EditDistance\bin\Debug\EditDistance.pdb
+c:\users\ali\documents\visual studio 2013\Projects\EditDistance\EditDistance\obj\Debug\EditDistance.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2013\Projects\EditDistance\EditDistance\obj\Debug\EditDistance.exe
+c:\users\ali\documents\visual studio 2013\Projects\EditDistance\EditDistance\obj\Debug\EditDistance.pdb
